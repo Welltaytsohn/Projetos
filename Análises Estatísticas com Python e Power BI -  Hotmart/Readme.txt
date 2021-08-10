@@ -1,0 +1,3 @@
+Resultado do desafio:
+
+https://app.powerbi.com/view?r=eyJrIjoiZTk1YzhlMmYtMmVlMi00ZGNjLWExN2EtZjY4ZDYzNGJiM2Y2IiwidCI6ImJkNWFhZjZiLTU1ZDUtNDgwOS05OWUyLTA2N2E3YTczZWUxMCJ9
